@@ -10,4 +10,4 @@ int main() {
   return 0;
 }
 
-/* Template inspire by fishy15! https://github.com/fishy15 */
+/* Template inspire by fishy15! https://github.com/fishy15/competitive_programming/blob/master/template.cpp */
